@@ -14,3 +14,4 @@ include $(BUILD_PACKAGE)
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
 runwithmorecare
+build
